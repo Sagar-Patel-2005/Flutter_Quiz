@@ -20,4 +20,8 @@
 
 ## Screenshots
 
-![Quiz App Screenshot](https://raw.githubusercontent.com/your-username/roll-dice-app/main/assets/screenshot.png)
+![Quiz App Screenshot](Screenshot1.jpg)
+![Quiz App Screenshot](Screenshot2.jpg)
+![Quiz App Screenshot](Screenshot3.jpg)
+
+### Happy coding! 🎲
