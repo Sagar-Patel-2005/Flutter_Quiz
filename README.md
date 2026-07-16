@@ -1,27 +1,52 @@
-# Flutter_Quiz
+# Flutter Quiz
+
+A simple Flutter quiz application that presents multiple-choice questions, randomizes the answer order, calculates the final score, and allows users to restart the quiz.
 
 ## Features
+
 - Displays predefined quiz questions.
-- Randomizes answer order using shuffle().
-- Uses setState() to dynamically update the UI when selecting answers and switching questions.
-- Shows correct/incorrect answers at the end of the quiz.
-- Includes a restart button to retake the quiz.
+- Randomizes the answer order using `shuffle()`.
+- Updates the UI dynamically using `setState()`.
+- Displays the final quiz result.
+- Highlights correct and incorrect answers.
+- Allows users to restart the quiz and play again.
 
 ## Technologies Used
+
 - Flutter
 - Dart
 
+## Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- Dart SDK
+- Android Studio or Visual Studio Code
+
+### Installation
+
+1. Clone the repository.
+2. Navigate to the project folder.
+3. Run the following commands:
+
+```bash
+flutter pub get
+flutter run
+```
+
 ## Usage
 
-1. Open the app.
-2. Select an answer for each question.
-3. View the result at the end.
-4. Tap the "Restart" button to retake the quiz.
+1. Launch the application.
+2. Read each question carefully.
+3. Select one answer for each question.
+4. View your quiz result after answering all questions.
+5. Tap the **Restart** button to retake the quiz.
 
-## Screenshots
+## Author
 
-![Quiz App Screenshot](Screenshot1.jpg)
-![Quiz App Screenshot](Screenshot2.jpg)
-![Quiz App Screenshot](Screenshot3.jpg)
+**Sagar Patel**
 
-### Happy coding! 🎲
+---
+
+⭐ If you found this project helpful, consider giving it a star on GitHub!
